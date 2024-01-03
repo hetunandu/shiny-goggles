@@ -1,0 +1,1 @@
+SELECT * FROM users where role = '{{appsmith.mode}}' ORDER BY id LIMIT 10;

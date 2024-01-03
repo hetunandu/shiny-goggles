@@ -18,7 +18,11 @@
   "unreadCommentThreads": 0,
   "color": "#C7F3E3",
   "icon": "car",
-  "unpublishedCustomJSLibs": [],
+  "unpublishedCustomJSLibs": [
+    {
+      "uidString": "xmlParser_https://cdnjs.cloudflare.com/ajax/libs/fast-xml-parser/3.17.5/parser.min.js"
+    }
+  ],
   "publishedCustomJSLibs": [],
   "applicationVersion": 1,
   "isManualUpdate": false,
